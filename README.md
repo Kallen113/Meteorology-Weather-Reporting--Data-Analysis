@@ -7,7 +7,7 @@ In this project, we will collect data on weather forecasts of U.S. TV Networks' 
 
 For better context, according to an article on the U.S. National Oceanic and Atmospheric Administration (NOAA) website, 5-day forecasts tend to have an accuracy of about 90%,., while 7-day foprecasts have about an 80% accuracy, and 10-day forecvasts have a much lower accuracy of only 50%. See article here: [NOAA article on weather report accuracy](https://scijinks.gov/forecast-reliability/#:~:text=A%20seven%2Dday%20forecast%20can,right%20about%20half%20the%20time.)
 
-Based on this article, I will focus on 5-day as wel;l as 7-day forecast data.
+Based on this article, I will focus on 5-day as well as 7-day forecast data.
 
 See To-Dos section below for details on the next steps for this project as well as the methodology and metrics we will use (NB: this is still in the very early stages of this project; it's mostly a project proposal for the moment).
 
